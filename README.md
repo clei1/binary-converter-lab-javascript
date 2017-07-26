@@ -2,7 +2,7 @@
 
 ### Getting Down to Business with Binary
 
-<img src="http://imgs.xkcd.com/comics/1_to_10.png" width="200px" align="right" hspace="10"> ***This is a group lab, so make sure you are working in a group of 2-4 students***
+<img src="http://imgs.xkcd.com/comics/1_to_10.png" width="200px" align="right" hspace="10"> 
 
 To start this lab, let's count to ten. Ok, fine, any 3 year old could count to ten. But can you count to ten in binary? How about in hexadecimal? Not so easy...yet!
 
