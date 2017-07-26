@@ -1,0 +1,1 @@
+//Create a program that converts a decimal number to its binary equivalent. Write your code here.
